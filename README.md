@@ -1,2 +1,2 @@
 # trenzasguadalupe
-mi sitio web https://trenzas504.github.io/trenzasguadalupe/Index
+mi sitio web https://trenzas504.github.io/trenzasguadalupe/Index.html
